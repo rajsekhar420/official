@@ -9,5 +9,10 @@ public class Apptest {
 	System.out.println("hello world");
 	}
 	
-
+	@Test
+	public void test1() {
+		
+	System.out.println("hello world, welcome to Devops");
+	}
+	
 }
